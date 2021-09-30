@@ -28,7 +28,7 @@ Coding Bootcamp assignment 4
           assignment 4( 2nd option) ,
           leave the shop (close the project , 3rd option)
 * Instead of using the console to output the user's choices i used Tkinder 
-   which is Python's in-build library and standard interface to the Tcl/Tk GUI toolkit
+   which is Python's build-in library and standard interface to the Tcl/Tk GUI toolkit
    (No need to pip install)
 * Once you select the 2nd option on intro menu the Tk window will pop up and from there 
    you choose with which algorithm you want to sort the T-shirt list
